@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "mine",
-      "address": "https://anisette-v3-server-42ti.onrender.com"
+      "address": "https://anisette-v3-server-7hns.onrender.com"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
